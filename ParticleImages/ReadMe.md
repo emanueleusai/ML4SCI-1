@@ -11,11 +11,11 @@ The dataset contains around four hundred throusand images for electron and photo
 ## Algorithm 
 Please use a Machine Learning model of your choice to achieve the highest possible classification performance on the provided dataset. Please provide a Jupyter Notebook that shows your solution.
 ## Evaluation Metrics.
-1) ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
-2) Training and Validation Accuracy   
+* ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
+* Training and Validation Accuracy   
 The model performance will be tested on the unseen test dataset based on the above metrics.
 ## Deliverables  
-* Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score.
+* Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score.  
 
 
 
