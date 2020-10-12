@@ -11,7 +11,7 @@ The dataset contains 32x32 Images of the hit energy its timing (channel 1: hit e
 The dataset contains around four hundred throusand images for electron and photon i.e. around two hundred thousand images each. Please note that besides the model performance on the provided dataset, your model will also be evaluated on an unseen test dataset.
 ## Algorithm 
 Please use a Machine Learning model of your choice to achieve the highest possible classification performance on the provided dataset. Please provide a Jupyter Notebook that shows your solution.
-## Evaluation Metrics.
+## Evaluation Metrics  
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
 * Training and Validation Accuracy   
 The model performance will be tested on the unseen test dataset based on the above metrics.
