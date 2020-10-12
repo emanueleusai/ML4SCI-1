@@ -14,6 +14,7 @@ Please use a Machine Learning model of your choice to achieve the highest possib
 ## Evaluation Metrics  
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
 * Training and Validation Accuracy   
+
 The model performance will be tested on the unseen test dataset based on the above metrics.
 ## Deliverables  
 * Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score. More details regarding the format of the notebook can be found in the sample Google Colab notebook provided above.  
