@@ -1,8 +1,7 @@
 # Particle Images: Electron vs Photon Classification
 ## Introduction
 From particle identification to the discovery of the Higgs boson, Machine Learning algorithms have become an increasingly important tool for data analysis at the Large Hadron Collider (LHC).  
-The analysis of data collected at the LHC often involves the classification of hadronic jets and particles in collision events.  
-The CMS experiment uses the particle flow algorithm that combines raw data from different subdetectors to identify different classes of particles.  
+The analysis of data collected at the LHC often involves the classification of hadronic jets and particles in collision events.    
 The first step to the construction of the detector images is to generate an image for the electromagnetic calorimeter (ECAL). For this subdetector, each pixel in the image corresponds to a crystal of ECAL. We have provided you the images which can be accessed as shown in the sample Google Colab Jupyter Notebook provided. 
 ## Dataset  
 The intensity of each pixel is proportional to the energy measured in the corresponding crystal. Other data attribute: timing of the energy deposit are also available, though this may not help the model to improve the classification performance much. 
