@@ -1,5 +1,5 @@
 # Particle Images: Electron vs Photon Classification    
-![GitHub Logo](/images/CollisionImage.png)
+![GitHub Logo](images/CollisionImage.png)
 
 ## Introduction
 From particle identification to the discovery of the Higgs boson, Machine Learning algorithms have become an increasingly important tool for data analysis at the Large Hadron Collider (LHC).  
