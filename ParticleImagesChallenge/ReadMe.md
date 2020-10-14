@@ -19,7 +19,7 @@ The model performance will be tested on the unseen test dataset based on the abo
 ## Deliverables  
 * Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score. More details regarding the format of the notebook can be found in the sample Google Colab notebook provided for this challenge.  
 
-
+Contributors: Sergei Gleyzer, Emanuele Usai, Shravan Chaudhari. 
 
 
   
