@@ -18,6 +18,7 @@ Please use a Machine Learning model of your choice to achieve the highest possib
 The model performance will be tested on the unseen test dataset based on the above metrics.
 ## Deliverables  
 * Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score. More details regarding the format of the notebook can be found in the sample Google Colab notebook provided for this challenge.  
+* The final trained model including the model architecture and the trained weights.
 
 Contributors: Sergei Gleyzer, Emanuele Usai, Shravan Chaudhari. 
 
