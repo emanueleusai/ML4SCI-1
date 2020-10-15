@@ -1,6 +1,6 @@
 # Strong Lensing Challenge
 
-![Lensing illustration](https://github.com/PyJedi/MLHack2020/blob/master/gitimage.jpg)
+![Lensing illustration](https://github.com/ML4SCIHackathon/ML4SCI/blob/main/GravitationalLensingChallenge/gitimage.jpg)
 
 ### Description
 
@@ -18,11 +18,12 @@ The model performance will be tested on the hidden test dataset based on the abo
 ### Deliverables 
 
 * You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above mentioned evaluation metrics (Distribution of Reconstruction Loss, ROC curve, and AUC score) for the training and validation data.
+* You must also submit the final trained model, including the model architecture and the trained weights.
 * You can use the example notebook provided in this repository as a template for your work. 
 
 ### Example Notebook 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PyJedi/MLHack2020/blob/master/StrongLensingChallenge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/GravitationalLensingChallenge/StrongLensingChallenge.ipynb)
 
 > **_NOTE:_**  This notebook also contains a section for a supervised approach for binary classification, this is only for the sake of intuition, and you are required to work only on the unsupervised model.
 
