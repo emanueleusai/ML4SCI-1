@@ -24,13 +24,13 @@ Predict four real numbers from a large input vector of real numbers.
 
 To get the complex-valued time-series M(t) into a neural network, we can simply "stack" the real and complex parts together to make a real-valued input vector.
 
-![simple_neural_net_drawing.png](attachment:simple_neural_net_drawing.png)
+![simple_neural_net_drawing.png](simple_neural_net_drawing.png)
 
 ### Example Solution's Figures of Merit:
 
 Using the simple neural network with 15 epochs (the code below only uses 3, for speed), we obtain the following predictions of the four output variables from the M(t) curves:
 
-![simple_solution_15epochs.png](attachment:simple_solution_15epochs.png)
+![simple_solution_15epochs.png](simple_solution_15epochs.png)
 
 Note that one of these (correlation strength) is predicted very well, two are partially captured (the correlation and dissipation power), and one is not captured at all (correlation length).
 
