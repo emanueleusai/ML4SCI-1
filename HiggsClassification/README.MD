@@ -8,6 +8,7 @@ The discovery of the Higgs boson by CMS and ATLAS Collaborations was announced a
 **Problem statement:** The discovery of the Higgs boson by CMS and ATLAS Collaborations was announced at CERN in 2012. In this work, we focus on the potential of Machine Learning and Deep Learning in detecting potential Higgs signal from one of the background processes that mimics it.
 
 ![decay](./decay.png)
+
 Higgs Decay[1]
 
 **Dataset:** The dataset is made available by the Center for Machine Learning and Intelligent Systems at University of California, Irvine. The dataset can be found on the UCI Machine learning Repository
