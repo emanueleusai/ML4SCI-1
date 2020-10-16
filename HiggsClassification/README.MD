@@ -9,7 +9,7 @@ The discovery of the Higgs boson by CMS and ATLAS Collaborations was announced a
 
 ![decay](./decay.png)
 
-Higgs Decay[1]
+Figure: Higgs Decay[1]
 
 **Dataset:** The dataset is made available by the Center for Machine Learning and Intelligent Systems at University of California, Irvine. The dataset can be found on the UCI Machine learning Repository
 
