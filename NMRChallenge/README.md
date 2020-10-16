@@ -34,10 +34,11 @@ Using the simple neural network with 15 epochs (the code below only uses 3, for 
 
 Note that one of these (correlation strength) is predicted very well, two are partially captured (the correlation and dissipation power), and one is not captured at all (correlation length).
 
-Although the NMR "spin echo" technique may sound complicated, the following animation created by Gavin W Morley (by way of https://en.wikipedia.org/wiki/Spin_echo) makes it much clearer!
-
 
 ## Introduction to NMR and spin echos
+
+
+Although the NMR "spin echo" technique may sound complicated, the following animation created by Gavin W Morley (by way of https://en.wikipedia.org/wiki/Spin_echo) makes it much clearer!
 
 
 ![NMR Spin Echo Animation](HahnEcho_GWM.gif)
