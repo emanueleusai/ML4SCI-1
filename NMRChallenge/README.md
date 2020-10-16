@@ -11,7 +11,10 @@
 
 
 Although the NMR "spin echo" technique may sound complicated, the following animation created by Gavin W Morley (by way of https://en.wikipedia.org/wiki/Spin_echo) makes it much clearer!
+
+
 ![NMR Spin Echo Animation](HahnEcho_GWM.gif)
+
 
 The red arrows in this animation represents the values of nuclear spins in the material.
 They all begin in the same direction (up), and then an applied magnetic field rotates them into the x-y plane (indicated by the 90$^\circ$ pulse).
