@@ -1,3 +1,5 @@
+**Introduction:**
+
 The Large Hadron Collider (LHC) collides proton beams travling in opposite directions at near the speed of light, producing collision that result in particle showers that interact with thousands of cells within layers of detector. This allows scientists to collect these collision data and analyze them. One major analysis task is to classify different types of collisions based on their physics content, allowing physicists to find patterns in the data and to potentially unravel new discoveries. For example, we could aim to dicern particle showers resulting from a the decay of Particle X from those resulting from a different Particle Y. 
 
 The discovery of the Higgs boson by CMS and ATLAS Collaborations was announced at CERN in 2012. In this work, we focus on the potential of Machine Learning and Deep Learning in detecting potential Higgs signal from one of the background processes that mimics it.
