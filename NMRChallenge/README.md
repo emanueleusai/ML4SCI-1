@@ -49,10 +49,10 @@ They all begin in the same direction (up), and then an applied magnetic field ro
 A constant external magnetic field in the z-direction did not affect the spins when they were pointing "up", but now that they lie in the x-y plane they begin to precess.
 
 
-Because each nuclear spin sits in a slightly different magnetic environment, each one has a slightly different response to the background z-direction magnetic field, causing some to precess in a clockwise direction and others in a counterclockwise direction.
+Because each nuclear spin sits in a slightly different magnetic environment, each one has a slightly different response to the background z-direction magnetic field, causing some to precess faster or slower than others.
 
 
-After a fixed amount of time, $t$ in the above animation, a second magnetic pulse is applied and rotates each spin 180 degrees in the x-y plane.
+After a fixed amount of time, t in the above animation, a second magnetic pulse is applied and rotates each spin 180 degrees in the x-y plane.
 After this, the spins continue to move as they did before, but because of the 180-degree pulse they are now effectively precessing  "backwards" compared to the original motion!
 So after an additional time t passes, the variations in precession time is canceled out, causing a refocusing of the spins.
 
@@ -86,4 +86,4 @@ That two-step process is when a nuclear spin couples to an electron and changes 
 
 ![latex_model_details.png](latex_model_details.png)
 
-Our goal is to develop a model that accurately determines the above four variables from a single $M(t)$ curve.
+Our goal is to develop a model that accurately determines the above four variables from a single M(t) curve.
