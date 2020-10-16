@@ -22,4 +22,5 @@ Please submit the following:
 *   Your model weights. 
 
 **References**
+
 [1] Baldi, P., P. Sadowski, and D. Whiteson. “Searching for Exotic Particles in High-energy Physics with Deep Learning.” Nature Communications 5 (July 2, 2014).
