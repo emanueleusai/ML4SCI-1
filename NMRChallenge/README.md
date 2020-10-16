@@ -37,6 +37,9 @@ Note that one of these (correlation strength) is predicted very well, two are pa
 Although the NMR "spin echo" technique may sound complicated, the following animation created by Gavin W Morley (by way of https://en.wikipedia.org/wiki/Spin_echo) makes it much clearer!
 
 
+## Introduction to NMR and spin echos
+
+
 ![NMR Spin Echo Animation](HahnEcho_GWM.gif)
 
 
