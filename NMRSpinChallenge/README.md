@@ -1,7 +1,7 @@
 
 # Hackathon - NMR Challenge
 
-<a href="https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/NMRChallenge/Hackathon_NMR_Challenge.ipynb">
+<a href="https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/NMRSpinChallenge/Hackathon_NMR_Challenge.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
