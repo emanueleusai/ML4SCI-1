@@ -1,4 +1,5 @@
-A reference notebook for this challenge can be found on the following Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)
+A reference notebook for this challenge can be found on the Colab link below:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)
 
 
 **Introduction:**
