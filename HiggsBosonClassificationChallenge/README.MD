@@ -15,7 +15,8 @@ Figure: Higgs Decay[1]
 
 **Data Description:** The dataset consists of a total of 11 million labeled samples of Higgs vs background events produced by Monte Carlo simulations. Each sample consists of 28 features. The first 21 features are kinematic properties measured at the level of the detectors. The last seven are functions of the first 21.
 
-[![Open In Colab](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)
+
 
 **Deliverables**
 
