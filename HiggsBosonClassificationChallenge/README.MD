@@ -1,3 +1,6 @@
+A reference notebook for this challenge can be found on the following Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)
+
+
 **Introduction:**
 
 The Large Hadron Collider (LHC) collides proton beams travling in opposite directions at near the speed of light, producing collision that result in particle showers that interact with thousands of cells within layers of detector. This allows scientists to collect these collision data and analyze them. One major analysis task is to classify different types of collisions based on their physics content, allowing physicists to find patterns in the data and to potentially unravel new discoveries. For example, we could aim to dicern particle showers resulting from a the decay of Particle X from those resulting from a different Particle Y. 
@@ -15,7 +18,6 @@ Figure: Higgs Decay[1]
 
 **Data Description:** The dataset consists of a total of 11 million labeled samples of Higgs vs background events produced by Monte Carlo simulations. Each sample consists of 28 features. The first 21 features are kinematic properties measured at the level of the detectors. The last seven are functions of the first 21.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GJOrc2s4NnFEgukcTycPkol8DgMm6cJN#scrollTo=T3MNJbXN30sy)
 
 
 **Deliverables**
