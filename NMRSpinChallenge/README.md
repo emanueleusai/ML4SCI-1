@@ -87,3 +87,12 @@ That two-step process is when a nuclear spin couples to an electron and changes 
 ![latex_model_details.png](latex_model_details.png)
 
 Our goal is to develop a model that accurately determines the above four variables from a single M(t) curve.
+
+## Contributors
+
+- Stephen Carr (Brown Theoretical Physics Center)
+- Charles Snider (Brown University)
+- J. B. Marston (Brown Theoretical Physics Center)
+- V. F. Mitrović (Brown University)
+- D. E. Feldman (Brown Theoretical Physics Center)
+- C. Ramanathan (Dartmouth College)
