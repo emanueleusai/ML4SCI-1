@@ -2,6 +2,8 @@
 
 ![Lensing illustration](https://github.com/ML4SCIHackathon/ML4SCI/blob/main/GravitationalLensingChallenge/gitimage.jpg)
 
+> Illustration by Sandbox Studio, Chicago with Ana Kova
+
 ### Description
 
 Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images.
@@ -10,7 +12,7 @@ The [Dataset](https://github.com/ML4SCI-SLC/SLC_Data) consists of two classes, s
 
 ### Evaluation Metrics
 
-* Distribution of Reconstruction Loss,
+* Distribution of Reconstruction Loss
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
 
 The model performance will be tested on the hidden test dataset based on the above metrics.
@@ -29,6 +31,14 @@ The model performance will be tested on the hidden test dataset based on the abo
 
 ### Contributors
 
-* Sergei Gleyzer
-* Michael Toomey
-* Pranath Reddy
+* Sergei Gleyzer<sup>1</sup>
+* Michael Toomey<sup>2,3</sup>
+* Pranath Reddy<sup>4</sup>
+
+<sup>1</sup>Department of Physics & Astronomy, University of Alabama, Tuscaloosa, AL 35401, USA
+
+<sup>2</sup>Brown Theoretical Physics Center, Providence, RI 02912, USA
+
+<sup>3</sup>Department of Physics, Brown University, Providence, RI 02912, USA
+
+<sup>4</sup>Birla Institute of Technology & Science, Pilani - Hyderabad Campus, Telangana, India
