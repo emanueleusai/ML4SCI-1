@@ -22,7 +22,7 @@ The model performance will be tested on the unseen test dataset based on the abo
 * The final trained model including the model architecture and the trained weights.
 
 ## Contributors: 
-* Sergei Gleyzer (CERN, Fermilab, University of Alabama)    
-* Emanuele Usai (CERN, Brown University)  
-* Michael Andrews (CERN, CMU)  
-* Shravan Chaudhari (BITS Pilani University)   
+* Sergei Gleyzer (Department of Physics & Astronomy, University of Alabama)    
+* Emanuele Usai (Physics Department, Brown University)  
+* Michael Andrews (Physics Department, Carnegie Mellon University)  
+* Shravan Chaudhari (Birla Institute of Technology & Science - Pilani, Goa Campus, India)   
