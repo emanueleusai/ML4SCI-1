@@ -1,4 +1,5 @@
-# Particle Images: Electron vs Photon Classification    
+# Particle Images: Electron vs Photon Classification 
+## Example Notebook:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/ParticleImagesChallenge/ParticleImages.ipynb)
 ![GitHub Logo](images/CollisionImage.png)
 
 ## Introduction
@@ -20,7 +21,8 @@ The model performance will be tested on the unseen test dataset based on the abo
 * Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score. More details regarding the format of the notebook can be found in the sample Google Colab notebook provided for this challenge.  
 * The final trained model including the model architecture and the trained weights.
 
-Contributors: Sergei Gleyzer, Emanuele Usai, Michael Andrews, Shravan Chaudhari. 
-
-
-  
+## Contributors: 
+* Sergei Gleyzer (CERN, Fermilab, University of Alabama)    
+* Emanuele Usai (CERN, Brown University)  
+* Michael Andrews (CERN, CMU)  
+* Shravan Chaudhari (BITS Pilani University)   
