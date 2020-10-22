@@ -3,9 +3,9 @@
 ![GitHub Logo](images/CollisionImage.png)
 
 ## Introduction
-From particle identification to the discovery of the Higgs boson, Machine Learning algorithms have become an increasingly important tool for data analysis at the Large Hadron Collider (LHC).  
+Machine Learning algorithms have become an increasingly important tool for data analysis at the Large Hadron Collider (LHC) from particle identification to the discovery of the Higgs boson.   
 The analysis of data collected at the LHC often involves the classification of hadronic jets and particles in collision events.    
-The first step to the construction of the detector images is to generate an image for the electromagnetic calorimeter (ECAL). For this subdetector, each pixel in the image corresponds to a crystal of ECAL. We have provided you the images which can be accessed as shown in the sample Google Colab Jupyter Notebook provided. 
+The first step to the construction of the detector images is generation of images for the electromagnetic calorimeter (ECAL). For this subdetector, each pixel in the image corresponds to a crystal of ECAL. We have provided you the image dataset which can be accessed as shown in the sample Google Colab Jupyter Notebook provided. 
 ## Dataset  
 The intensity of each pixel is proportional to the energy measured in the corresponding crystal. Other data attribute: timing of the energy deposit are also available, though this may not help the model to improve the classification performance much. 
 The dataset contains 32x32 Images of the hit energy and its timing (channel 1: hit energy and channel 2: its timing) in each calorimeter cell (one cell = one pixel) for the two classes of particles: Electron and Photon. 
@@ -16,10 +16,12 @@ Please use a Machine Learning model of your choice to achieve the highest possib
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
 * Training and Validation Accuracy   
 
-The model performance will be tested on the unseen test dataset based on the above metrics.
+The model performance will be tested on a hidden test dataset based on the above metrics.
 ## Deliverables  
 * Google Colab Jupyter Notebook showing your solution along with model accuracy (Training and Validation), ROC curve and AUC score. More details regarding the format of the notebook can be found in the sample Google Colab notebook provided for this challenge.  
 * The final trained model including the model architecture and the trained weights.
+
+Good Luck!
 
 ## Contributors: 
 * Sergei Gleyzer (Department of Physics & Astronomy, University of Alabama)    
