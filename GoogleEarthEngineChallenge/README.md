@@ -1,5 +1,5 @@
 # Google Earth Engine Challenge
-
+<br><br>
 ![GEE illustration](https://github.com/cartoscience/ML4SCI/blob/main/GoogleEarthEngineChallenge/hackathon_slide.JPG)
 
 
