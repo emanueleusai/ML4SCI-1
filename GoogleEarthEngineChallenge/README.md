@@ -1,6 +1,6 @@
 # Google Earth Engine Challenge
 
-![GEE illustration](https://github.com/ML4SCIHackathon/ML4SCI/blob/main/GoogleEarthEngineChallenge/hackathon_slide.jpg)
+![GEE illustration](https://github.com/ML4SCIHackathon/ML4SCI/blob/main/GoogleEarthEngineChallenge/hackathon_slide.JPG)
 
 
 ### Description
