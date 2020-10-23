@@ -5,7 +5,7 @@
 
 ### Description
 
-**Objectives**: Learn to create and troubleshoot supervised land-use/land-cover (LULC) classifications using Google Earth Engine (GEE). You will use multispectral optical imagery from the Landsat 8 satellite to train a supervised classification model and compare it to the USGS National Land Cover Database. Classification accuracy will be calculated using the results of a confusion matrix and a validation layer. The example below is for testing purposes only and is meant to inspire creative problem solving for improving the overall accuracy of LULC models. You will need a GEE account to participate!
+Learn to create and troubleshoot supervised land-use/land-cover (LULC) classifications using Google Earth Engine (GEE). You will use multispectral optical imagery from the Landsat 8 satellite to train a supervised classification model and compare it to the USGS National Land Cover Database. Classification accuracy will be calculated using the results of a confusion matrix and a validation layer. The example below is for testing purposes only and is meant to inspire creative problem solving for improving the overall accuracy of LULC models. You will need a GEE account to participate!
 
 ### Evaluation Metrics
 
