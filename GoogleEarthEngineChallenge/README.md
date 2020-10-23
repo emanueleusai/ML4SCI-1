@@ -32,4 +32,5 @@ Submit a lastnameFirstname_results.txt document that contains each of the requir
 ### Contributors
 
 * Brad G. Peter
+
 Department of Geography, University of Alabama, Tuscaloosa, AL 35401, USA
