@@ -8,7 +8,7 @@
 
 Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images.
 
-The [Dataset](https://github.com/ML4SCI-SLC/SLC_Data) consists of two classes, strong lensing images with no substructure and strong lensing images with substructure. Considering the samples with substructure to be outliers, you are required to train an unsupervised model on a set of strong lensing images with no substructure to solve the task of anomaly detection using **PyTorch**.
+The [Dataset](https://github.com/ML4SCI-SLC/SLC_Data) consists of two classes, strong lensing images with no substructure and strong lensing images with substructure. Considering the samples with substructure to be outliers, you are required to train an unsupervised model on a set of strong lensing images with no substructure to solve the task of anomaly detection.
 
 ### Evaluation Metrics
 
@@ -21,7 +21,8 @@ The model performance will be tested on the hidden test dataset based on the abo
 
 * You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above mentioned evaluation metrics (Distribution of Reconstruction Loss, ROC curve, and AUC score) for the training and validation data.
 * You must also submit the final trained model, including the model architecture and the trained weights.
-* You can use the example notebook provided in this repository as a template for your work. 
+
+You can use the example notebook provided in this repository as a template for your work. 
 
 ### Example Notebook 
 
