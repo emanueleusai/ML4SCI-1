@@ -53,7 +53,7 @@ Wonder how you can leverage your Deep learning skills to obtain decent results f
 Feel free to come up with other interesting ideas!
 
 ## Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nidhihegde001/ML4SCI-1/blob/main/CosmicRayImagesChallenge/Cosmic_Ray_Challenge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nidhihegde001/ML4SCI-1/blob/main/CosmicRayImagesChallenge/CR_Challenge.ipynb)
 
 ## Submission Instructions
 You need to submit the predictions of your model on the test data as follows:
