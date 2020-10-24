@@ -17,8 +17,8 @@ A reference notebook for this challenge can be found on the Colab link below:
 Please submit the following: 
 
 
-*   Your full notebook used for training including the ROC Curves, confusion matrices and loss and accuracy plots wrt number of epochs. 
-*   Your model weights. 
+*   Your full notebook used for training including the ROC Curves, model weights and loss and accuracy plots wrt number of epochs. 
+
 
 **References:**
 
