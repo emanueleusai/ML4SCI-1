@@ -19,8 +19,8 @@ The model performance will be tested on the hidden test dataset based on the abo
 
 ### Deliverables 
 
-* You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above mentioned evaluation metrics (Distribution of Reconstruction Loss, ROC curve, and AUC score) for the training and validation data.
-* You must also submit the final trained model, including the model architecture and the trained weights.
+* You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above-mentioned evaluation metrics (Distribution of Reconstruction Loss, ROC curve, and AUC score) for the training and validation data.
+* You must also submit the final trained model, including the model architecture and the trained weights ( For example: HDF5 file, .pb file, .pt file, etc. )
 
 You can use the example notebook provided in this repository as a template for your work. 
 
