@@ -2,7 +2,7 @@
 ## Example Notebook:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/ParticleImagesChallenge/ParticleImages.ipynb)
 ![GitHub Logo](images/CollisionImage.png)
 
-Machine Learning algorithms have become an increasingly important tool for analyzing the data from the Large Hadron Collider (LHC). Identification of particles in LHC collisions is one of the principle task of LHC detector reconstruction algorithms.  
+Machine Learning algorithms have become an increasingly important tool for analyzing the data from the Large Hadron Collider (LHC). Identification of particles in LHC collisions is an important task of LHC detector reconstruction algorithms.
 
 Here we present a challenge where one of the detectors (the Electromagnetic Calorimeter or ECAL) is used as a camera to analyze detector images from two types of particles: electrons and photons that deposit their energy in this detector. 
 
