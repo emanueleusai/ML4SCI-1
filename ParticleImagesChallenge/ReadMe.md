@@ -2,14 +2,12 @@
 ## Example Notebook:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/ParticleImagesChallenge/ParticleImages.ipynb)
 ![GitHub Logo](images/CollisionImage.png)
 
-## Introduction
-Machine Learning algorithms have become an increasingly important tool for data analysis at the Large Hadron Collider (LHC) from particle identification to the discovery of the Higgs boson.   
-The analysis of data collected at the LHC often involves the classification of hadronic jets and particles in collision events.    
-The first step to the construction of the detector images is generation of images for the electromagnetic calorimeter (ECAL). For this subdetector, each pixel in the image corresponds to a crystal of ECAL. We have provided you the image dataset which can be accessed as shown in the sample Google Colab Jupyter Notebook provided. 
-## Dataset  
-The intensity of each pixel is proportional to the energy measured in the corresponding crystal. Other data attribute: timing of the energy deposit are also available, though this may not help the model to improve the classification performance much. 
-The dataset contains 32x32 Images of the hit energy and its timing (channel 1: hit energy and channel 2: its timing) in each calorimeter cell (one cell = one pixel) for the two classes of particles: Electron and Photon. 
-The dataset contains around four hundred thousand images for electron and photon i.e. around two hundred thousand images each. Please note that besides the model performance on the provided dataset, your model will also be evaluated on an unseen test dataset.
+Machine Learning algorithms have become an increasingly important tool for analyzing the data from the Large Hadron Collider (LHC). Identification of particles in LHC collisions is one of the principle task of LHC detector reconstruction algorithms.  
+
+Here we present a challenge where one of the detectors (the Electromagnetic Calorimeter or ECAL) is used as a camera to analyze detector images from two types of particles: electrons and photons that deposit their energy in this detector. 
+
+## Dataset 
+Each pixel in the image corresponds to a detector cell, while the intensity of the pixel corresponds to how much energy is measured in that cell. Timing of the energy deposits are also available, though this may or may not be relevant. The dataset contains 32x32 Images of the energy hits and their timing (channel 1: hit energy and channel 2: its timing) in each calorimeter cell (one cell = one pixel) for the two classes of particles: Electrons and Photons. The dataset contains around four hundred thousand images for electrons and photons. Please note that your final model will be evaluated on an unseen test dataset. 
 ## Algorithm 
 Please use a Machine Learning model of your choice to achieve the highest possible classification performance on the provided dataset. Please provide a Jupyter Notebook that shows your solution.
 ## Evaluation Metrics  
