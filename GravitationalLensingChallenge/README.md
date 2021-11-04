@@ -9,7 +9,7 @@
 Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images.
 
 ```diff
-+ [Update Description]
++ Update the description
 ```
 
 ### Datasets
@@ -21,7 +21,7 @@ The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/
 #### 2. Regression
 
 ```diff
-+ [Dataset Description]
++ Add regression dataset description]
 ```
 
 ### Evaluation Metrics
@@ -33,7 +33,7 @@ The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/
 #### 2. Regression
 
 ```diff
-+ [Add Evaluation Metrics]
++ Add regression evaluation metrics
 ```
 
 The model performance will be tested on the hidden test dataset based on the above metrics.
@@ -54,7 +54,7 @@ You can use the example notebooks provided in this repository as a template for 
 #### 2. Regression
 
 ```diff
-+ [Add Link to the example notebook]
++ Add link to the example notebook
 ```
 
 ### Contributors
@@ -72,6 +72,6 @@ You can use the example notebooks provided in this repository as a template for 
 
 <sup>4</sup>Birla Institute of Technology & Science, Pilani - Hyderabad Campus, Telangana, India
 
-```diff 
-+ [Add affiliation]
+```diff
++ Add affiliation
 ```
