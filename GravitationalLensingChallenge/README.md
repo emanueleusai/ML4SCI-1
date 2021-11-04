@@ -6,27 +6,35 @@
 
 ### Description
 
-Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images. <mark>[Update Description]<mark>
+Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images.
+
+```diff
++ [Update Description]
+```
 
 ### Datasets
 
-#### Multi-Class Classification
+#### 1. Multi-Class Classification
 
 The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view?usp=sharing) consists of three classes, strong lensing images with no substructure, spherical substructure, and vortex substructure. The images have been normalized using min-max normalization, but you are free to use any normalization or data augmentation methods to improve your results.
 
-#### Regression
+#### 2. Regression
 
-<mark>[Dataset Description]<mark>
+```diff
++ [Dataset Description]
+```
 
 ### Evaluation Metrics
 
-#### Multi-Class Classification
+#### 1. Multi-Class Classification
 
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)  
 
-#### Regression
+#### 2. Regression
 
-* <mark>[Add Evaluation Metrics]<mark>
+```diff
++ [Add Evaluation Metrics]
+```
 
 The model performance will be tested on the hidden test dataset based on the above metrics.
 
@@ -39,13 +47,15 @@ You can use the example notebooks provided in this repository as a template for 
 
 ### Example Notebooks
 
-#### Multi-Class Classification
+#### 1. Multi-Class Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/145HVDXeF2rC9q_oMbKoIZoPu4nBTwi52?usp=sharing)
 
-#### Regression
+#### 2. Regression
 
-<mark>[Add Link to the example notebook]<mark>
+```diff
++ [Add Link to the example notebook]
+```
 
 ### Contributors
 
@@ -62,4 +72,6 @@ You can use the example notebooks provided in this repository as a template for 
 
 <sup>4</sup>Birla Institute of Technology & Science, Pilani - Hyderabad Campus, Telangana, India
 
-<sup>5</sup><mark>[Add affiliation]<mark>
+```diff 
++ [Add affiliation]
+```
