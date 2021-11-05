@@ -46,7 +46,7 @@ The model performance will be tested on the hidden test dataset based on the abo
 
 ### Deliverables
 
-* You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above-mentioned evaluation metrics for the training and validation data.
+* You are required to submit a Google Colab Jupyter Notebook clearly showing your implementation along with the above-mentioned evaluation metrics for the validation data.
 * You must also submit the final trained model, including the model architecture and the trained weights ( For example: HDF5 file, .pb file, .pt file, etc. )
 
 You can use the example notebooks provided in this repository as a template for your work.
