@@ -14,7 +14,7 @@ In this challenge, we focus on exploring the potential of supervised classificat
 
 #### Challenge 2 - Regression
 
-In this challenge we will use regression to measure the total fraction of mass in substructure of a dark matter halo. We will do so utilizing simulated strong lensing images with subahlo substructure consistent with non-interacting cold dark matter models. 
+In this challenge we will use regression to measure the total fraction of mass in substructure of a dark matter halo. We will do so utilizing simulated strong lensing images with subhalo substructure consistent with non-interacting cold dark matter models. 
 
 ### Datasets
 
