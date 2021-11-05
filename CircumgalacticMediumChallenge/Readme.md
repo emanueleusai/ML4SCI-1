@@ -41,22 +41,6 @@ The dimensionality reduction necessarily involves some information loss. Your ai
 
 # What you need to submit
 
-**See the end of this notebook for exact requirements for submissions**
-
-
-The key elements you need to submit:
-1. Reconstruction loss on the TEST data using your final model.
-2. A function mapping of spectra into a latent space, i.e. function that calculates $ \hat{z} $ for any spectrum (or spectral dataset) $ s $.
-3. Your function for calculating reconstructions $ \hat{s} $ from latent representation $ \hat{z} $.
-
-# Summary 
-
-Lastly, the diagram below summarizes the process. For a given spectrum $ s $, you need to find a function "*reduce_dimensionality*" that reduces the dimension of the data, and function "*calculate_reconstructions*", which calculates reconstructed spectra from the reduced dataset. Reconstruction loss is calculated as a MSE of reconstructed vs original spectra, with added penalty for large latent space sizes.
-
-You need to submit the elements highlighted in red, that is the reconstructed spectra (using the test set), and the two functions.
-
-Submission format:
-
 Please email us:
  
 1.   The link to your Google Colab Jupyter Notebook (or your Jupyter Notebook). The notebook should containt
