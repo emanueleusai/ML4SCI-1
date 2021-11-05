@@ -1,7 +1,9 @@
 ![ML4SCI Logo](ML4SCI.jpg)
 
 
-We are pleased to announce the **Machine Learning for Science (ML4SCI) 2021 Hackathon Competition** that will take place from **November 8-22, 2021**. The ML4SCI competition is hosted by several campuses in the US including Puerto Rico and across the world, and is open to everyone. Participants will have the option of competing online or in-person. The hackathon will focus on applying **machine learning** techniques to scientific challenges, including those from the fields of physics, astronomy and planetary science. Please find the competition poster at this link:
+We are pleased to announce the **Machine Learning for Science (ML4SCI) 2021 Hackathon Competition** that will take place from **November 8-22, 2021**. The ML4SCI competition is hosted by several campuses in the US including Puerto Rico and across the world, and is open to everyone. Participants will have the option of competing online or in-person. The hackathon will focus on applying **machine learning** techniques to scientific challenges, including those from the fields of physics, astronomy and planetary science.
+
+Please find the competition poster at this link: https://bit.ly/3vOEtyN
 
 The agenda for the hackathon can be found here: https://indico.cern.ch/event/1085878/
 
