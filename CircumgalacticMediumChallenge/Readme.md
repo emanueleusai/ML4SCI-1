@@ -1,3 +1,5 @@
+*This is a high-level description of the problem, and what you need to submit. Please see the jupyter notebook for more detailed information.
+
 ## Problem description 
 
 Galaxies are embedded in large gas haloes termed the “circumgalactic medium (CGM)”. The history of a galaxy is encapsulated in the history of its gas cycling between the visible body of the galaxy and the CGM. The CGM is a source for a galaxy’s star-forming fuel, and plays a role in regulating the galactic gas supply. Understanding the CGM and its history thus offers insight into galaxy evolution. 
