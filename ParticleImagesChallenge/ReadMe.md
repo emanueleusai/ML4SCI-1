@@ -1,5 +1,4 @@
 # Particle Images: Electron vs Photon Classification 
-## Example Notebook:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rnye4YF7mofjpI0NhhMZMMGzd7udvvSS?usp=sharing)
 ![GitHub Logo](images/CollisionImage.png)
 
 Machine Learning algorithms have become an increasingly important tool for analyzing the data from the Large Hadron Collider (LHC). Identification of particles in LHC collisions is an important task of LHC detector reconstruction algorithms.
@@ -8,8 +7,16 @@ Here we present a challenge where one of the detectors (the Electromagnetic Calo
 
 ## Dataset 
 Each pixel in the image corresponds to a detector cell, while the intensity of the pixel corresponds to how much energy is measured in that cell. Timing of the energy deposits are also available, though this may or may not be relevant. The dataset contains 32x32 Images of the energy hits and their timing (channel 1: hit energy and channel 2: its timing) in each calorimeter cell (one cell = one pixel) for the two classes of particles: Electrons and Photons. The dataset contains around four hundred thousand images for electrons and photons. Please note that your final model will be evaluated on an unseen test dataset. 
-## Algorithm 
-Please use a Machine Learning model of your choice to achieve the highest possible classification performance on the provided dataset. Please provide a Jupyter Notebook that shows your solution.
+## Challenge 1 - CNN
+Please use a Machine Learning model of your choice to achieve the highest possible classification performance on the provided dataset. 
+### Example Notebook of CNN based approach:      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rnye4YF7mofjpI0NhhMZMMGzd7udvvSS?usp=sharing)
+## Challenge 2 (Advanced)- ViT
+The field of Computer Vision has for years been dominated by Convolutional Neural Networks (CNNs) which use filters and create feature used by a multi-layer perceptron to perform the desired classification. But recently this field has been incredibly revolutionized by the architecture of Vision Transformers (ViT), which through the mechanism of self-attention has proven to obtain excellent results on many tasks. Please implement Vision Transformer or any of its variation to achieve highest possible classification performance on the dataset. 
+### Example Notebook of ViT based approach:     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YyPd-0TPw31qK7k5fqCWZi5h9i2-a2th?usp=sharing)
+
+### Note: 
+Both the challenges will be considered as separate challenges. You may participate in either or both. Please provide a Jupyter Notebook that shows your solution.
+
 ## Evaluation Metrics  
 * ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)   
 * Training and Validation Accuracy   
@@ -24,3 +31,4 @@ The model performance will be tested on a hidden test dataset based on the above
 * Emanuele Usai (Physics Department, Brown University)  
 * Michael Andrews (Physics Department, Carnegie Mellon University)  
 * Shravan Chaudhari (Birla Institute of Technology & Science - Pilani, Goa Campus, India)   
+* Purva Chaudhari (Vishwakarma Institute of Technology, India)
