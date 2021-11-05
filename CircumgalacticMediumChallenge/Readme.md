@@ -1,4 +1,4 @@
-*This is a high-level description of the problem, and what you need to submit. Please see the jupyter notebook for more detailed information.
+*This is a high-level description of the problem, and what you need to submit. Please see the jupyter notebook for more detailed information.*
 
 ## Problem description 
 
