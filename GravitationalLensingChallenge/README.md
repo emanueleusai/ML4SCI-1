@@ -6,7 +6,7 @@
 
 ### Description
 
-Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. The primary aim of this challenge is to design and implement supervised deep learning models to study strong lensing images.
+Since its discovery via its gravitational interactions over half a century ago, the identity of dark matter has yet to be found. This is despite countless experiments aimed at detection of the most promising dark matter candidates. An alternative to terrestial detection (for example, with colliders or liquid xenon) for dark matter identification is unique gravitational signatures which arise from disparte substructure predicitions among dark matter models. Example substructures include subhalos of WIMP-like cold dark matter and vortices of superfluid dark matter. Perhaps the most promising method to infer the unique morphology of these substructures is with strong galaxy-galaxy lensing images; an intermediate dark matter halo (which contains a visible galaxy) lenses a galaxy which is behind it. With this in mind, in these challenges we will use simulated strong lensing images and supervised machine learning models to study the morphogy of dark matter substructure. 
 
 #### Challenge 1 - Multi-Class Classification
 
@@ -14,21 +14,17 @@ In this challenge, we focus on exploring the potential of supervised classificat
 
 #### Challenge 2 - Regression
 
-```diff
-+ Update the description
-```
+In this challenge we will use regression to measure the total fraction of mass in substructure of a dark matter halo. We will do so utilizing simulated strong lensing images with subahlo substructure consistent with non-interacting cold dark matter models. 
 
 ### Datasets
 
 #### 1. Multi-Class Classification
 
-The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view?usp=sharing) consists of three classes, strong lensing images with no substructure, spherical substructure, and vortex substructure. The images have been normalized using min-max normalization, but you are free to use any normalization or data augmentation methods to improve your results.
+The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/view?usp=sharing) consists of three classes, strong lensing images with no substructure, subhalo substructure, and vortex substructure. The images have been normalized using min-max normalization, but you are free to use any normalization or data augmentation methods to improve your results.
 
 #### 2. Regression
 
-```diff
-+ Add regression dataset description
-```
+The Dataset consists of strong lensing images for cold dark matter with subhalo substructure. For each lensing image the corresponding fraction of mass in dark matter substructure is provided.
 
 ### Evaluation Metrics
 
@@ -38,9 +34,7 @@ The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/
 
 #### 2. Regression
 
-```diff
-+ Add regression evaluation metrics
-```
+* MAE (Mean absolute error)
 
 The model performance will be tested on the hidden test dataset based on the above metrics.
 
