@@ -6,7 +6,13 @@
 
 ### Description
 
-Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. While statistical and supervised machine learning algorithms have been implemented for this task, the potential of unsupervised deep learning algorithms is yet to be fully explored and could prove to be crucial in the analysis of LSST data. The primary aim of this challenge is to design and implement an unsupervised deep learning model to study strong lensing images.
+Gravitational lensing has been a cornerstone in many cosmology experiments, and studies since it was discussed in Einstein’s calculations back in 1936 and discovered in 1979, and one area of particular interest is the study of dark matter via substructure in strong lensing images. The primary aim of this challenge is to design and implement supervised deep learning models to study strong lensing images.
+
+#### Challenge 1 - Multi-Class Classification
+
+In this challenge, we focus on exploring the potential of supervised classification models in identifying dark matter based on simulated strong lensing images with different substructure.
+
+#### Challenge 2 - Regression
 
 ```diff
 + Update the description
@@ -21,7 +27,7 @@ The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/
 #### 2. Regression
 
 ```diff
-+ Add regression dataset description]
++ Add regression dataset description
 ```
 
 ### Evaluation Metrics
