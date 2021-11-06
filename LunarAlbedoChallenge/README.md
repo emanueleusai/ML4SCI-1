@@ -1,4 +1,4 @@
-Lunar Albedo Challenge
+# Lunar Albedo Challenge
 
 ![plot](./Images/Lunar_Albedo_Header.png)
 
@@ -10,7 +10,7 @@ The purpose of this challenge is to use the Moon's albedo to predict the element
 
 An example notebook is provided. This serves as an introduction to the problem and provides a trivial solution. The method given in the notebook can be improved upon significantly. Final entries will be scored using the combined mean-squared error of all elemental predictions in the withheld region.
 
-BE SURE NOT TO TRAIN OR TEST ON THE WITHHELD REGION! This will significantly decrease the performance when the actual data from the withheld region is used for evaluation.
+BE SURE NOT TO TRAIN OR TEST ON THE WITHHELD REGION! There is data in this region, but all values are zero. Using this data will significantly decrease the performance when the actual data from the withheld region is used for evaluation.
 
 
 
