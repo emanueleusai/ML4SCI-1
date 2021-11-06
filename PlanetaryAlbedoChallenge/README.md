@@ -28,7 +28,7 @@ BE SURE NOT TO TRAIN OR TEST ON THE WITHHELD REGION! There is data in this regio
 * Sergei Gleyzer (Department of Physics & Astronomy, University of Alabama)
 * Patrick Peplowski (Applied Physics Laboratory, Johns Hopkins)
 * Georgios Pipilis (National Technical University of Athens)
-* Sonya Strukova
+* Sonya Strukova (Universidad de Murcia)
 * Jason Terry (Department of Physics & Astronomy, University of Georgia )
 
 
