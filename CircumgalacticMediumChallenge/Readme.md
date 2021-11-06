@@ -54,6 +54,7 @@ Please email us:
 Feel free to choose a ML framework of your choice for this problem.
 
 # Contributors
+Annelia Anderson (University of Alabama)
 Jeremy Bailin (University of Alabama)
 Sergei Gleyzer (University of Alabama)
 Jacob Morgan (University of Alabama)
