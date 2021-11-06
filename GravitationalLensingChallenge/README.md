@@ -24,7 +24,7 @@ The [Dataset](https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXCYUhw2A/
 
 #### 2. Regression
 
-The Dataset consists of strong lensing images for cold dark matter with subhalo substructure. For each lensing image the corresponding fraction of mass in dark matter substructure is provided.
+The [Dataset](https://drive.google.com/file/d/1Elk2GU20WSoNFzluQr8nIrRzaFcLgFfx/view?usp=sharing) consists of strong lensing images for cold dark matter with subhalo substructure. For each lensing image the corresponding fraction of mass in dark matter substructure is provided.
 
 ### Evaluation Metrics
 
@@ -53,9 +53,7 @@ You can use the example notebooks provided in this repository as a template for 
 
 #### 2. Regression
 
-```diff
-+ Add link to the example notebook
-```
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/115OrXyJR5_AU9J0_IzCGwc0Pv9cbuezl?usp=sharing)
 
 ### Contributors
 
@@ -72,6 +70,5 @@ You can use the example notebooks provided in this repository as a template for 
 
 <sup>4</sup>Birla Institute of Technology & Science, Pilani - Hyderabad Campus, Telangana, India
 
-```diff
-+ Add affiliation
-```
+<sup>5</sup>Paul G. Allen School of Computer Science & Engineering, University of Washington, Seattle, WA 98195, USA
+
