@@ -40,7 +40,7 @@ Below we will refer to the features of the reduced spectra as "latent variables"
 The dimensionality reduction necessarily involves some information loss. Your aim is to find a dimensionality reduction with as small loss as possible. This loss is calculated as a mean squared error of reconstructed spectra, penalised for the number of latent variables used. This penalty is linear in the number of latent variables, but there is an added (large) penalty if you use more than 6 of them (you shouldn't need to use more than 6 latent variables). The function for calculating the penalty is given in the notebook.
 
 
-**Here is an example Colab notebook, using Autoencoder for dimensionality reduction:** <a href="https://colab.research.google.com/drive/1dHUVwZiLDBJ6IXN0MDSzBiZrXT2w4L2n" 
+**Here is an example Colab notebook, using Autoencoder for dimensionality reduction:** <a href="https://colab.research.google.com/github/ML4SCI/ML4SCIHackathon/blob/main/CircumgalacticMediumChallenge/DimensionalityReduction_CGM.ipynb" 
 target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 # What you need to submit
