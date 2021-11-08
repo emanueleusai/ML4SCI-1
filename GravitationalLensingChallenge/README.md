@@ -49,11 +49,11 @@ You can use the example notebooks provided in this repository as a template for 
 
 #### 1. Multi-Class Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/145HVDXeF2rC9q_oMbKoIZoPu4nBTwi52?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//ML4SCI/ML4SCIHackathon/blob/main/GravitationalLensingChallenge/StrongLensingChallenge-Classification.ipynb)
 
 #### 2. Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DNbx26jJDm8HgcAGHNQzBn-uSyewQqhg?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//ML4SCI/ML4SCIHackathon/blob/main/GravitationalLensingChallenge/StrongLensingChallenge-Regression.ipynb)
 
 ### Contributors
 
