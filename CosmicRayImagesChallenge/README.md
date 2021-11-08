@@ -16,12 +16,12 @@
 Before starting with the problem, let us look at how exactly these artifacts look like! <br>
 Here is an example of a cosmic ray artifact in one of the images from MESSENGER mission of NASA:
 <p align="center">
-<img src="https://github.com/nidhihegde001/ML4SCI-1/blob/main/CosmicRayImagesChallenge/sample_cosmic_ray.JPG" width="256" height="256">
+<img src="https://github.com/ML4SCI/ML4SCIHackathon/blob/main/CosmicRayImagesChallenge/sample_cosmic_ray.JPG" width="256" height="256">
 </p>
 
 Just as a fun exercise to help you appreciate the problem, try locating the cosmic ray artifact in the image below:
 <p align="center">
-<img src="https://github.com/nidhihegde001/ML4SCI-1/blob/main/CosmicRayImagesChallenge/EW0220137668G.IMG.jpg" width="256" height="256">
+<img src="https://github.com/ML4SCI/ML4SCIHackathon/blob/main/CosmicRayImagesChallenge/EW0220137668G.IMG.jpg" width="256" height="256">
 </p>
 
 ## Dataset
@@ -53,7 +53,7 @@ Wonder how you can leverage your Deep learning skills to obtain decent results f
 Feel free to come up with other interesting ideas!
 
 ## Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/CosmicRayImagesChallenge/CR_Challenge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/ML4SCIHackathon/blob/main/CosmicRayImagesChallenge/CR_Challenge.ipynb)
 
 ## Submission Instructions
 You need to submit the predictions of your model on the test data as follows:
