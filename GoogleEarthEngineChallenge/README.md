@@ -1,6 +1,6 @@
 # Google Earth Engine Challenge
 <br><br>
-![GEE illustration](https://github.com/cartoscience/ML4SCI/blob/main/GoogleEarthEngineChallenge/hackathon_slide.JPG)
+![GEE illustration](https://github.com/ML4SCI/ML4SCIHackathon/blob/main/GoogleEarthEngineChallenge/hackathon_slide.JPG)
 
 
 ### Description
@@ -27,7 +27,7 @@ Submit a lastnameFirstname_results.txt document that contains each of the requir
 
 ### Challenge Notebook 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ML4SCIHackathon/ML4SCI/blob/main/GoogleEarthEngineChallenge/SupervisedClassificationGEE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/ML4SCIHackathon/blob/main/GoogleEarthEngineChallenge/SupervisedClassificationGEE.ipynb)
 
 ### Contributors
 
