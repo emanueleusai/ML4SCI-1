@@ -12,7 +12,7 @@ The purpose of this challenge is to use the lunar albedo to predict the elementa
 
 An example notebook is provided. This serves as an introduction to the problem and provides a trivial solution. The method given in the notebook can be improved upon significantly. Final entries will be scored using the combined mean-squared error of all elemental predictions in the withheld region.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X1iXkSnRJ2IrNrKf-tHAMexoSLcYC_2a?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/ML4SCIHackathon/blob/main/PlanetaryAlbedoChallenge/PlanetaryAlbedo_LunarExample.ipynb)
 
 BE SURE NOT TO TRAIN OR TEST ON THE WITHHELD REGION! There is data in this region, but all values are zero. Using this data will significantly decrease the performance when the actual data from the withheld region is used for evaluation.
 
