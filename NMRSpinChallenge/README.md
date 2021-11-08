@@ -73,14 +73,14 @@ In these scenarios, complicated structures in the electron states can give rise 
 Because of these strong couplings between electrons, they are often hard to probe experimentally.
 
 Luckily, electrons can interact with the nuclear spins of a material (by way of the hyperfine-interaction).
-If the electron-nuclear coupling becomes strong enough (mediated perhaps a strongly correlated electronic phase), then the nuclear spins will couple throughout the material.
+If the electron-nuclear coupling becomes strong enough (mediated perhaps by a strongly correlated electronic phase), then the nuclear spins will couple throughout the material.
 This can be viewed as a two-step process, where a nuclear spin couples to an electron and changes its motion, and then that electron later "scatters" off another nuclear spin elsewhere in the material.
 
 We here make the simplifying assumption that this scattering effect is determined by only three variables:
 
-α_z: The effective scattering strength for nuclear spins when the spin-axis is along the z-direction (parallel to the constant magnetic field)
-
 α_x: The effective scattering strength for nuclear spins when the spin-axis is perpindicular to the z-direction (perpindicular to the constant magnetic field). Note that we call this a_x but it defines the coupling in the entire xy plane.
+
+α_z: The effective scattering strength for nuclear spins when the spin-axis is along the z-direction (parallel to the constant magnetic field)
 
 θ: The "flip angle" of the nuclear spins caused by the strength of the applied pulse at t=0 and t=τ. In an ideal spin-echo experiment, θ = 90°, but in practice the exact flip-angle is never known.
 
@@ -89,7 +89,7 @@ Here we provide simulated spin-echo magnetizations M(t) from random samples of t
 
 
 In the simulated data-sets, the parameters are randomly distributed over the following ranges:
-- α_z: coupling strength, with range [0, 100] kHz
+- α_x: coupling strength, with range [0, 100] kHz
 - α_z: coupling strength, with range [0, 300] kHz
 - θ: flip angle, with range [10°, 90°]
 
