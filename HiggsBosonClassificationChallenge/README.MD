@@ -1,6 +1,6 @@
 A reference notebook for this challenge can be found on the Colab link below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCIHackathon/ML4SCI/blob/main/HiggsBosonClassificationChallenge/higgs_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pTF4_Zgd8H9G6uYB7EuVKdkLrc8qBnqZ?usp=sharing)
 
 
 
